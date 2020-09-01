@@ -1,3 +1,3 @@
 # Stack-automaton
 
-Formal grammars and Stack automata implementataion in C++
+Formal grammars and Stack automata implementation in C++
